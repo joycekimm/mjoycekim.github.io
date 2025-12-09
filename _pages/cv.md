@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://drive.google.com/file/d/1yW4cfsjIoOfgGVsDudjm0zagqpmm5HpU/view/)
+[Download CV](/files/JoyceKim_CV.pdf)
 
 ### Preview
 
@@ -17,4 +17,7 @@ redirect_from:
         type="application/pdf"
         width="100%"
         height="900px">
+    <p>PDF preview not available. 
+       <a href="/files/JoyceKim_CV.pdf">Download CV</a>
+    </p>
 </object>
