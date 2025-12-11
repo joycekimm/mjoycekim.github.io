@@ -34,8 +34,6 @@ Concerns have been raised about the "demise of democracy," possibly accelerated 
 
 The Value of In-Person Schooling During Times of Educational Disruption: Impacts on Students' Emotional Problems and Subjective Well-Being (with Youjin Hahn, Hyuncheol Bryant Kim, and Hee-Seung Yang), *R&R: Economics of Education Review*.
 
-<div style="margin-left: 20px;">
-
 <details markdown="1">
 <summary><strong>Abstract (click to expand)</strong></summary>
 
@@ -52,3 +50,10 @@ During the COVID-19 pandemic, citizens of democratic nations faced a trade-off b
 
 <hr>
 
+## Work in Progress
+
+Optimal Nonlinear Taxation with Education as Both Capital and Signal  
+
+The Impacts of Zero Personal Income Tax Policy on Youth Labor Supply and Educational Outcomes: Evidence from Poland (with Michal Myck) 
+
+The Effects and Dynamics of Blind Hiring (with Hee Sung Kim and Seung Yong Sung)
